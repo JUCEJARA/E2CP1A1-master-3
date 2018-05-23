@@ -1,0 +1,46 @@
+
+
+body{
+
+	background: #CCC;
+	text-align: center;
+}
+
+.etiqueta{
+
+	width: 300px;
+	height: : 100px;
+	background-image: url('images/ribbon.png');
+	position: absolute;
+}
+
+.contenedor{
+
+	text-align: left;
+	width: 100px;
+	padding: 10px 20px;
+	margin:  40px auto;
+	background-image: url('images/oferta_lente.jpg');
+	position: relative;
+}
+
+
+
+.rojo{
+  background-color: red;
+}
+.amarillo{
+  background-color: yellow;
+}
+
+
+.verde{
+  background-color: green;
+}
+.negro{
+  background-color: black;
+}
+
+.blanco{
+  background-color: white;
+}
